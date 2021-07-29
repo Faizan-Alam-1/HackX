@@ -1,4 +1,4 @@
-# SKACAS "HOT BRAINS 2021" INTERNATIONAL LEVEL HACKATHON
+# HACKX
 
 ![Logo](https://www.spsvithackx.com/static/images/hack.png) 
 
