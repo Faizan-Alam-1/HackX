@@ -1,4 +1,4 @@
-# HACKX
+# HACKX Hackathon 
 
 ![Logo](https://www.spsvithackx.com/static/images/hack.png) 
 
